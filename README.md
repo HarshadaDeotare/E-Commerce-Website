@@ -54,7 +54,7 @@ Originally hosted on Replit:
 
 ## 📸 Preview
 
-![Preview](screenshot.png)
+![Preview](screenshot.png.jpeg)
 
 ---
 
